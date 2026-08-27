@@ -3,10 +3,7 @@
 > **从零到 AI×科学的细胞生物学数学建模学习档案。**
 > 一个细胞生物学背景的学习者，系统补足数学建模、走向建模 × 生物学交叉领域——所有推导、代码、踩坑与疑问都沉淀在这里。
 
-[![Current Stage](https://img.shields.io/badge/Current_Stage-00_Foundations-blue)](./ROADMAP.md)
-[![Milestones](https://img.shields.io/badge/Milestones-0%2F6-lightgrey)](./projects/)
-![Method](https://img.shields.io/badge/Method-Derive_Verify_Log-orange)
-[![Since](https://img.shields.io/badge/since-2026_08_27-green)](./progress.md)
+**`Current Stage: 00 Foundations`** · **`Milestones: 0/6`** · **`Method: 推导 → 验证 → 记录`** · **`Since 2026-08-27`**
 
 ---
 
@@ -106,12 +103,7 @@ bio-math-lab/
 
 ## 📊 当前状态
 
-[![Stage 00](https://img.shields.io/badge/00_foundations-in_progress-blue)](./ROADMAP.md)
-[![Stage 01](https://img.shields.io/badge/01_dynamics-not_started-lightgrey)](./ROADMAP.md)
-[![Stage 02](https://img.shields.io/badge/02_stochastic-not_started-lightgrey)](./ROADMAP.md)
-[![Stage 03](https://img.shields.io/badge/03_spatial-not_started-lightgrey)](./ROADMAP.md)
-[![Stage 04](https://img.shields.io/badge/04_inference-not_started-lightgrey)](./ROADMAP.md)
-[![Stage 05](https://img.shields.io/badge/05_AI_science-not_started-lightgrey)](./ROADMAP.md)
+**阶段进度：** 🚧 `00 foundations`（进行中） · ⬜ `01 dynamics` · ⬜ `02 stochastic` · ⬜ `03 spatial` · ⬜ `04 inference` · ⬜ `05 AI×science`
 
 | 阶段 | 状态 | 里程碑 |
 |---|---|---|
