@@ -126,4 +126,4 @@ bio-math-lab/
 
 ---
 
-*仓库地址：<https://github.com/wen180/-bio-math-lab> · 学习的持久载体始终是本 GitHub 仓库，内容随学习进度持续迭代。*
+*仓库地址：<https://github.com/wen180/bio-math-lab> · 学习的持久载体始终是本 GitHub 仓库，内容随学习进度持续迭代。*
